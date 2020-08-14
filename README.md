@@ -13,7 +13,7 @@ These are a series of articles that cover the entirety of Object-Detection using
 > Selecting the MODEL-Architechture for optimal performance depends on various factors all of which are not inclusive to MODEL properties. This article discusses the Practical aspects of MODEL-Selection, the real-life problems you may never see coming until its quite late in the project. It's better to be aware and prepare first hand.
 * * Folder Contents: __tracking_hop_space_x1.mp4__
 
-* [TensorFlow Object Detection in Windows (under 30 lines)]
+* [TensorFlow Object Detection in Windows (under 30 lines)](https://medium.com/@deep12vish/tensorflow-object-detection-in-windows-under-30-lines-d6776586c4ab)
 > After setting up the environment , this is the part where you will run the inference by loading the model and image of your choice. In just 30 lines of code you will get all the fundamentals required to run inference successfully. 
 * * Folder Contents: __ssd_mobilenet_v2_coco__ (__frozen_inference_graph.pb__), __object_detection_under_images_30_llines.py__ , __mscoco_label_map.pbtxt__ , __Euro_truck_sim.jpg__ , __Euro_truck_sim_result.jpg__ , __Times_sq1.jpg__ , __Times_sq1_result.jpg__
 
